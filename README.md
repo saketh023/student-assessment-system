@@ -42,8 +42,7 @@ cd student-assessment-system
 ```
 pip install numpy pandas scikit-learn matplotlib seaborn scipy jupyter
 ```
-3. Launch Jupyter Notebook:
-```
+3. Launch Jupyter Notebook
 
 4. Open the main notebook file and run the cells to see the analysis and predictions.
 
